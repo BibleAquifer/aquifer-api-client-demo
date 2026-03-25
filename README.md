@@ -1,6 +1,10 @@
 # Aquifer API Client Demo
 
-A minimal demo of the [aquifer-api-client](https://github.com/BibleAquifer/aquifer-api-client) Python library.
+A minimal demo of the [aquifer-api-client](https://github.com/BibleAquifer/aquifer-api-client) Python library. 
+
+The `aquifer-api-client` hits the Aquifer database (AquiferDB) to access resources granularly through an API. Note that the API used does not directly access resources available on GitHub here, but an upstream database of resources that is used by the [Bible Well mobile app](https://well.bible). 
+
+Our longer-term intention is to replace the AquiferDB API with an API and MCP server that provide access to the resources in the `BibleAquifer` GitHub repositories.
 
 ## What this demo does
 
