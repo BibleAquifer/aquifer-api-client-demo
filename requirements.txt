@@ -1,0 +1,2 @@
+git+https://github.com/BibleAquifer/aquifer-api-client.git
+python-dotenv>=1.0
